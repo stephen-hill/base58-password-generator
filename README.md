@@ -7,12 +7,12 @@ A simple command line script that will generate a Base58 encoded password.
 You can install this package globally with:
 
 ```bash
-composer global require 'stephenhill/base58-password-generator'
+composer global require 'stephenhill/base58-password-generator=~1'
 ```
 
 ## Usage
 
-If you Composer bin directory is in your PATH, simply run:
+If your Composer's bin directory is in your PATH, simply run:
 
 ```bash
 $ newpassword
