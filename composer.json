@@ -1,0 +1,17 @@
+{
+    "name": "stephenhill/base58-password-generator",
+    "description": "A simple command line script that will generate a Base58 encoded password.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Hill",
+            "email": "stephen@gatekiller.co.uk"
+        }
+    ],
+    "require": {
+        "stephenhill/base58": "~1.0"
+    },
+    "bin": [
+        "newpassword"
+    ]
+}
