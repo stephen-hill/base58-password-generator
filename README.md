@@ -20,7 +20,7 @@ $ newpassword
 8SUjt9MnDCpJmaefFjpL86snG9TgWSzp2jA2YxAAc2bw
 ```
 
-By default, it will generate a 32bit password. You can specifiy the number of bits in as a parameter:
+By default, it will generate a 32bit password. You can specifiy the number of bits as a parameter:
 
 ```bash
 $ newpassword 128
